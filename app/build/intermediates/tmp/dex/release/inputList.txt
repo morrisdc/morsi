@@ -1,0 +1,5 @@
+C:\Users\Ryan\AndroidStudioProjects\MorsiVibeApp\app\build\intermediates\classes\release
+C:\Users\Ryan\AndroidStudioProjects\MorsiVibeApp\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-52f7d266429f52fec437a96861669f34437e25ec.jar
+C:\Users\Ryan\AndroidStudioProjects\MorsiVibeApp\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-dd44d7fb18d17bbeb2703a239344fabce4e8bd9d.jar
+C:\Users\Ryan\AndroidStudioProjects\MorsiVibeApp\app\build\intermediates\pre-dexed\release\classes-fdaef785bdb94f1e6dddc97d31924f20a7ff117a.jar
+C:\Users\Ryan\AndroidStudioProjects\MorsiVibeApp\app\build\intermediates\pre-dexed\release\classes-3dcd63654d185c48f117a1ce56d631098a9d4a7c.jar

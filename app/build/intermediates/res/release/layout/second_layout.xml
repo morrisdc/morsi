@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:ignore="HardcodedText"
+    android:orientation="vertical">
+
+    <TextView
+        android:textSize="40sp"
+        android:textColor="#000099"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="Morsi"
+        android:visibility="visible"
+        android:id="@+id/Name" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="VIBRATIONS UTILIZED"
+        android:layout_gravity="center_horizontal" />
+
+    <AnalogClock
+        android:id="@+id/analogClock1"
+        android:layout_marginTop="0dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="Vibrate for 300 MS"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:text="Vibrate"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000099" />
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:gravity="center"
+        android:text="Vibrate SOS Pattern" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:text="Vibrate"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000099"
+        android:singleLine="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:gravity="center"
+        android:text="Vibrate Continuously"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/vibrateContin" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="0dp"
+        android:text="ON"
+        android:textColor="#000099" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="0dp"
+        android:text="Home"
+        android:onClick="switchPage"
+        android:textColor="#000099" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="\u00A9 Morsi 2015"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout><!-- From: file:/C:/Users/Ryan/AndroidStudioProjects/MorsiVibeApp/app/src/main/res/layout/second_layout.xml -->

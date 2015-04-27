@@ -1,0 +1,5 @@
+C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\classes\debug
+C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-50cf0b28f3f179ad063e94461ff08395a1b8c242.jar
+C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-fac6172fc2d684dd0afef00b1241ee2aaa8bf2fe.jar
+C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\pre-dexed\debug\classes-b9c2a2110c7050a95e4ccbce95280bb77a5cf679.jar
+C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\pre-dexed\debug\classes-6b0820e43e0487e40117e83e3a97b0db9d64fa08.jar

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\pre-dexed\debug\classes-6b0820e43e0487e40117e83e3a97b0db9d64fa08.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-fac6172fc2d684dd0afef00b1241ee2aaa8bf2fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\pre-dexed\debug\classes-b9c2a2110c7050a95e4ccbce95280bb77a5cf679.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tolo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Tolo\Dropbox\Mors\MorsiVibeApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-50cf0b28f3f179ad063e94461ff08395a1b8c242.jar" />
+    </item>
+
+</items>
